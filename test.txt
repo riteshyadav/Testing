@@ -2,4 +2,4 @@ Hello this is test.
 
 Test it again.
 
-Today i added some more lines in this file.
+Todays is thursday.
